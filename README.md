@@ -1,7 +1,5 @@
 # 格線系統 | Hexschool-F2E-1st-4-grid
 
-## 格線系統
-
 <a href="https://kevinshu1995.github.io/hex-4-grid/index.html">Demo | 網頁連結</a>
 
 ## Language
